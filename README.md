@@ -125,15 +125,6 @@ done
 
 ---
 
-## Roadmap
-
-- [ ] Add a `docs/data_dictionary.md` describing every column and its business meaning
-- [ ] Add expected-output snippets (markdown tables) under each query so reviewers don't need to spin up Postgres
-- [x] Add a `LICENSE` file (MIT)
-- [ ] Expand seed data beyond the current illustrative set for more realistic roll-rate/vintage curves
-
----
-
 ## License
 
 MIT — see [LICENSE](LICENSE).

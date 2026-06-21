@@ -11,7 +11,7 @@
 
 ![Dashboard preview](dashboard/preview.png)
 
-[**Open the live dashboard →**](dashboard/index.html)
+[**Open the live dashboard →**](dashboard/index.html) 
 
 ___
 

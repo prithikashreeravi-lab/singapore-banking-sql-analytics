@@ -6,6 +6,15 @@
 
 ---
 
+
+## Dashboard preview
+
+![Dashboard preview](dashboard/preview.png)
+
+[**Open the live dashboard →**](dashboard/index.html)
+
+___
+
 ## Why this project exists
 
 Singapore's major banks (DBS, OCBC, UOB, Standard Chartered, Citibank) routinely test SQL in their BA/DA hiring process, and the questions cluster around a small set of recurring problem domains. This portfolio is built directly around those domains, using a schema and seed data realistic enough to reflect actual production patterns rather than a generic tutorial database:

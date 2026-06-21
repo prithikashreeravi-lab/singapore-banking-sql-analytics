@@ -9,9 +9,7 @@
 
 ## Dashboard preview
 
-![Dashboard preview](dashboard/preview.png)
-
-[**Open the live dashboard →**](dashboard/index.html) 
+https://prithikashreeravi-lab.github.io/singapore-banking-sql-analytics/dashboard/index.html
 
 ___
 
